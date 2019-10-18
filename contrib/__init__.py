@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-| **@created on:** 10/09/18,
-| **@author:** prathyushsp,
+| **@created on:** 10/18/19,
+| **@author:** karmel,
 | **@version:** v0.0.1
 |
 | **Description:**
